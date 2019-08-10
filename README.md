@@ -1,0 +1,2 @@
+# Alexa-Rock-paper-scissors
+Rock Paper Scissors is a popular hand game. Challenge alexa in the fun game to improve your ranking and enjoy what will be your favourite pass time soon. This skill maintains user stats and these can be queried by asking alexa for the same.  Remember : 1. rock crushes scissors 2. scissors cuts paper 3. Paper covers Rock   Can you beat the Artifical Intelligence of Alexa and be the world leader ? Take the challenge to find out.
